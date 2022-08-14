@@ -1,0 +1,25 @@
+table, td, th {
+    border: 1px solid white;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+table th {
+    height: 50px;
+}
+
+.table th img{
+	width:304px;
+	height:228px;
+}
+
+.table td img{
+	width:304px;
+	height:228px;
+}
+
+.table {
+	margin-left: 20px;
+}
